@@ -1,0 +1,77 @@
+[
+    {
+        "TipoEspecifico": "ENTRANTES"
+    },
+    {
+        "TipoEspecifico": "SOPA"
+    },
+    {
+        "TipoEspecifico": "DIM-SUM"
+    },
+    {
+        "TipoEspecifico": "SUSHI"
+    },
+    {
+        "TipoEspecifico": "SASHIMI"
+    },
+    {
+        "TipoEspecifico": "MAKI"
+    },
+    {
+        "TipoEspecifico": "ARROZ Y TALLARINES"
+    },
+    {
+        "TipoEspecifico": "VERDURAS"
+    },
+    {
+        "TipoEspecifico": "CARNE"
+    },
+    {
+        "TipoEspecifico": "AVES"
+    },
+    {
+        "TipoEspecifico": "MARISCO"
+    },
+    {
+        "TipoEspecifico": "BANDEJAS"
+    },
+    {
+        "TipoEspecifico": "MENÚ"
+    },
+    {
+        "TipoEspecifico": "TINTOS"
+    },
+    {
+        "TipoEspecifico": "ROSADOS"
+    },
+    {
+        "TipoEspecifico": "BLANCO"
+    },
+    {
+        "TipoEspecifico": "SANGRIA"
+    },
+    {
+        "TipoEspecifico": "CAVA"
+    },
+    {
+        "TipoEspecifico": "CERVEZAS"
+    },
+    {
+        "TipoEspecifico": "REFRESCOS"
+    },
+    {
+        "TipoEspecifico": "SAKE"
+    },
+    {
+        "TipoEspecifico": "OTRAS"
+    },
+    {
+        "TipoEspecifico": "CAFÉS E INFUSIONES"
+    },
+    {
+        "TipoEspecifico": "INFUSIÓN SUMO"
+    },
+    {
+        "TipoEspecifico": "POSTRES"
+    }
+]

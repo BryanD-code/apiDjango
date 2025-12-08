@@ -1,0 +1,62 @@
+[
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/1.png",
+        "Informacion": "CONTIENE GLUTEN"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/2.png",
+        "Informacion": "CRUSTÁCEOS"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/3.png",
+        "Informacion": "HUEVOS"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/4.png",
+        "Informacion": "SOJA"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/5.png",
+        "Informacion": "LÁCTEOS"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/6.png",
+        "Informacion": "FRUTOS DE CÁSCARA"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/7.png",
+        "Informacion": "APIO"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/8.png",
+        "Informacion": "PESCADO"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/9.png",
+        "Informacion": "CACAHUETES"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/10.png",
+        "Informacion": "MOSTAZA"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/11.png",
+        "Informacion": "GRANOS DE SÉSAMO"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/12.png",
+        "Informacion": "DIÓXIDO DE AZUFRE Y SULFITOS"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/13.png",
+        "Informacion": "ALTRAMUCES"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/14.png",
+        "Informacion": "MOLUSCOS"
+    },
+    {
+        "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/15.png",
+        "Informacion": "PICANTE"
+    }
+]
