@@ -1,0 +1,4053 @@
+[
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 3,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 3,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 3,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 3,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 2,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 2,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 2,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 2,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add proyect",
+    "content_type": 7,
+    "codename": "add_proyect"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change proyect",
+    "content_type": 7,
+    "codename": "change_proyect"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete proyect",
+    "content_type": 7,
+    "codename": "delete_proyect"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view proyect",
+    "content_type": 7,
+    "codename": "view_proyect"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add suma",
+    "content_type": 8,
+    "codename": "add_suma"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change suma",
+    "content_type": 8,
+    "codename": "change_suma"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete suma",
+    "content_type": 8,
+    "codename": "delete_suma"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view suma",
+    "content_type": 8,
+    "codename": "view_suma"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add alergias",
+    "content_type": 9,
+    "codename": "add_alergias"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change alergias",
+    "content_type": 9,
+    "codename": "change_alergias"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete alergias",
+    "content_type": 9,
+    "codename": "delete_alergias"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view alergias",
+    "content_type": 9,
+    "codename": "view_alergias"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tipo",
+    "content_type": 10,
+    "codename": "add_tipo"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tipo",
+    "content_type": 10,
+    "codename": "change_tipo"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tipo",
+    "content_type": 10,
+    "codename": "delete_tipo"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tipo",
+    "content_type": 10,
+    "codename": "view_tipo"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "proyects",
+    "model": "proyect"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "proyects",
+    "model": "suma"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "proyects",
+    "model": "alergias"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "proyects",
+    "model": "tipo"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 1,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/1.png",
+    "Informacion": "CONTIENE GLUTEN"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 2,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/2.png",
+    "Informacion": "CRUSTÁCEOS"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 3,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/3.png",
+    "Informacion": "HUEVOS"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 4,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/4.png",
+    "Informacion": "SOJA"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 5,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/5.png",
+    "Informacion": "LÁCTEOS"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 6,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/6.png",
+    "Informacion": "FRUTOS DE CÁSCARA"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 7,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/7.png",
+    "Informacion": "APIO"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 8,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/8.png",
+    "Informacion": "PESCADO"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 9,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/9.png",
+    "Informacion": "CACAHUETES"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 10,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/10.png",
+    "Informacion": "MOSTAZA"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 11,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/11.png",
+    "Informacion": "GRANOS DE SÉSAMO"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 12,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/12.png",
+    "Informacion": "DIÓXIDO DE AZUFRE Y SULFITOS"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 13,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/13.png",
+    "Informacion": "ALTRAMUCES"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 14,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/14.png",
+    "Informacion": "MOLUSCOS"
+  }
+},
+{
+  "model": "proyects.alergias",
+  "pk": 15,
+  "fields": {
+    "ImagenAler": "https://www.restaurantesuma.es/public/images/allergy_icons/15.png",
+    "Informacion": "PICANTE"
+  }
+},
+{
+  "model": "proyects.proyect",
+  "pk": 1,
+  "fields": {
+    "title": "primer post",
+    "description": "este es la primera petición post de mi api para consumir por el clientes",
+    "technology": "python",
+    "created_at": "2025-12-06T19:50:50.551Z"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 1,
+  "fields": {
+    "TipoEspecifico": "ENTRANTES"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 2,
+  "fields": {
+    "TipoEspecifico": "SOPA"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 3,
+  "fields": {
+    "TipoEspecifico": "DIM-SUM"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 4,
+  "fields": {
+    "TipoEspecifico": "SUSHI"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 5,
+  "fields": {
+    "TipoEspecifico": "SASHIMI"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 6,
+  "fields": {
+    "TipoEspecifico": "MAKI"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 7,
+  "fields": {
+    "TipoEspecifico": "ARROZ Y TALLARINES"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 8,
+  "fields": {
+    "TipoEspecifico": "VERDURAS"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 9,
+  "fields": {
+    "TipoEspecifico": "CARNE"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 10,
+  "fields": {
+    "TipoEspecifico": "AVES"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 11,
+  "fields": {
+    "TipoEspecifico": "MARISCO"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 12,
+  "fields": {
+    "TipoEspecifico": "BANDEJAS"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 13,
+  "fields": {
+    "TipoEspecifico": "MENÚ"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 14,
+  "fields": {
+    "TipoEspecifico": "TINTOS"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 15,
+  "fields": {
+    "TipoEspecifico": "ROSADOS"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 16,
+  "fields": {
+    "TipoEspecifico": "BLANCO"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 17,
+  "fields": {
+    "TipoEspecifico": "SANGRIA"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 18,
+  "fields": {
+    "TipoEspecifico": "CAVA"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 19,
+  "fields": {
+    "TipoEspecifico": "CERVEZAS"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 20,
+  "fields": {
+    "TipoEspecifico": "REFRESCOS"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 21,
+  "fields": {
+    "TipoEspecifico": "SAKE"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 22,
+  "fields": {
+    "TipoEspecifico": "OTRAS"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 23,
+  "fields": {
+    "TipoEspecifico": "CAFÉS E INFUSIONES"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 24,
+  "fields": {
+    "TipoEspecifico": "INFUSIÓN SUMO"
+  }
+},
+{
+  "model": "proyects.tipo",
+  "pk": 25,
+  "fields": {
+    "TipoEspecifico": "POSTRES"
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 1,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "1.Ensalada de aguacate con langostinos",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b1e5c9530.png",
+    "Precio": "9.90€",
+    "created_at": "2025-12-07T16:42:11.404Z",
+    "alergias": [
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 2,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "3.Ensalada de wakame, algas japonesas",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182445912324.jpg",
+    "Precio": "7.80€",
+    "created_at": "2025-12-07T16:42:11.406Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 3,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "4.Ensalada de la habas soja",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182456998175.jpg",
+    "Precio": "6.50€",
+    "created_at": "2025-12-07T16:42:11.407Z",
+    "alergias": [
+      4
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 4,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "5.Ensalada chino",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20171208195725788194.jpg",
+    "Precio": "8.80€",
+    "created_at": "2025-12-07T16:42:11.407Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 5,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "6.Ensalada con Aliño de Tahini (Sésamo)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b1e5c9e18.png",
+    "Precio": "9.30€",
+    "created_at": "2025-12-07T16:42:11.408Z",
+    "alergias": [
+      3,
+      11
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 6,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "7.Rollitos de primavera (verduras y carne)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20230408150611237403.jpg",
+    "Precio": "2.15€",
+    "created_at": "2025-12-07T16:42:11.409Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 7,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "8.Rollitos de langostinos 4unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240702221341980855.jpg",
+    "Precio": "6.80€",
+    "created_at": "2025-12-07T16:42:11.409Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 8,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "9.Rollitos vietnamitas (sólo verduras) 4unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182522821752.jpg",
+    "Precio": "4.90€",
+    "created_at": "2025-12-07T16:42:11.410Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 9,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "10.Wan-Tun de queso con cangrejo  8unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182530449627.jpg",
+    "Precio": "6.90€",
+    "created_at": "2025-12-07T16:42:11.411Z",
+    "alergias": [
+      1,
+      2,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 10,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "11.Pan frito",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240702221744931184.jpg",
+    "Precio": "2.15€",
+    "created_at": "2025-12-07T16:42:11.412Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 11,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "11A.Pan de gambas",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b1e5ca653.png",
+    "Precio": "2.95€",
+    "created_at": "2025-12-07T16:42:11.412Z",
+    "alergias": [
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 12,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "12.Tempura de verduras",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240630133116354846.jpg",
+    "Precio": "9.50€",
+    "created_at": "2025-12-07T16:42:11.413Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 13,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "13.Tempura de langostinos (6 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240702222308416357.jpg",
+    "Precio": "11.95€",
+    "created_at": "2025-12-07T16:42:11.413Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 14,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "13A.Langostinos rebozados con sesamo ( 12 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b1e5cac66.png",
+    "Precio": "11.95€",
+    "created_at": "2025-12-07T16:42:11.414Z",
+    "alergias": [
+      1,
+      2,
+      3,
+      11
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 15,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "131.Brochetas de Pollo con salsa Teriyaki (2  pincho)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240702222719122271.jpg",
+    "Precio": "6.90€",
+    "created_at": "2025-12-07T16:42:11.415Z",
+    "alergias": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 16,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "133.Brochetas de Salmón con salsa Teriyaki (2 pinchos)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b0550ec.png",
+    "Precio": "9.10€",
+    "created_at": "2025-12-07T16:42:11.415Z",
+    "alergias": [
+      1,
+      4,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 17,
+  "fields": {
+    "tipo_id": "1",
+    "Platos": "134.Takoyaki  de pulpo con salsa Teriyaki (4 bolas)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b05553f.png",
+    "Precio": "6.90€",
+    "created_at": "2025-12-07T16:42:11.415Z",
+    "alergias": [
+      1,
+      4,
+      14
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 18,
+  "fields": {
+    "tipo_id": "2",
+    "Platos": "15.Sopa de aleta tiburón",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182628235835.jpg",
+    "Precio": "4.90€",
+    "created_at": "2025-12-07T16:42:11.416Z",
+    "alergias": [
+      3,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 19,
+  "fields": {
+    "tipo_id": "2",
+    "Platos": "16.Sopa de agripicante",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b1e5cb434.png",
+    "Precio": "4.90€",
+    "created_at": "2025-12-07T16:42:11.416Z",
+    "alergias": [
+      1,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 20,
+  "fields": {
+    "tipo_id": "2",
+    "Platos": "17.Sopa de miso",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182643527193.jpg",
+    "Precio": "4.90€",
+    "created_at": "2025-12-07T16:42:11.417Z",
+    "alergias": [
+      4
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 21,
+  "fields": {
+    "tipo_id": "2",
+    "Platos": "18.Sopa de Ramen tallarines con pollo",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182653151776.jpg",
+    "Precio": "6.10€",
+    "created_at": "2025-12-07T16:42:11.418Z",
+    "alergias": [
+      1,
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 22,
+  "fields": {
+    "tipo_id": "2",
+    "Platos": "19.Sopa de Wan-Tun",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182702358870.jpg",
+    "Precio": "5.60€",
+    "created_at": "2025-12-07T16:42:11.418Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 23,
+  "fields": {
+    "tipo_id": "3",
+    "Platos": "20.Dim-sum cantónes al vapor 8unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b1e5cb9e7.png",
+    "Precio": "9.20€",
+    "created_at": "2025-12-07T16:42:11.418Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 24,
+  "fields": {
+    "tipo_id": "3",
+    "Platos": "21.Shia chiao (gambas y setas) 4unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182753734290.jpg",
+    "Precio": "5.90€",
+    "created_at": "2025-12-07T16:42:11.419Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 25,
+  "fields": {
+    "tipo_id": "3",
+    "Platos": "22.Shao mai (carne y setas) 4unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b1e5cc0a2.png",
+    "Precio": "5.90€",
+    "created_at": "2025-12-07T16:42:11.419Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 26,
+  "fields": {
+    "tipo_id": "3",
+    "Platos": "23.Siao long bao (carne y col china) 4unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b1e5cc575.png",
+    "Precio": "5.90€",
+    "created_at": "2025-12-07T16:42:11.420Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 27,
+  "fields": {
+    "tipo_id": "3",
+    "Platos": "23A.Samosa de pollo con curry (6 und)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2273f31c.png",
+    "Precio": "5.90€",
+    "created_at": "2025-12-07T16:42:11.420Z",
+    "alergias": [
+      1,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 28,
+  "fields": {
+    "tipo_id": "3",
+    "Platos": "24.Gyoza de pollo a la plancha 6unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240915204620426575.png",
+    "Precio": "6.90€",
+    "created_at": "2025-12-07T16:42:11.420Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 29,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "25.Nigiri variadas 10 unidades",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2273fc2d.png",
+    "Precio": "25.50€",
+    "created_at": "2025-12-07T16:42:11.421Z",
+    "alergias": [
+      2,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 30,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26A.Nigiri Salmón 2unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182913376635.jpg",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.422Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 31,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26B.Nigiri Atún 2unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182938375698.jpg",
+    "Precio": "5.80€",
+    "created_at": "2025-12-07T16:42:11.422Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 32,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26C.Nigiri Pez mantequilla 2unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120182947794924.jpg",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.423Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 33,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26D.Nigiri Anguila 2unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120183001571157.jpg",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.423Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 34,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26F.Nigiri ventresca salmón flameado ( 2 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b227401a9.png",
+    "Precio": "5.80€",
+    "created_at": "2025-12-07T16:42:11.423Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 35,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26H.Nigiri Ebi 2unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184251223131.jpg",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.424Z",
+    "alergias": [
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 36,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26P.Nigiri de salmón flameado ( 2 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b22740cf6.png",
+    "Precio": "5.30€",
+    "created_at": "2025-12-07T16:42:11.424Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 37,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26K.Nigiri Tobico 2unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184354372439.jpg",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.425Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 38,
+  "fields": {
+    "tipo_id": "4",
+    "Platos": "26L.Nigiri de atún flameado ( 2 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b22740863.png",
+    "Precio": "6.00€",
+    "created_at": "2025-12-07T16:42:11.425Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 39,
+  "fields": {
+    "tipo_id": "5",
+    "Platos": "27.Sashimi variados 15 cortes",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b227410fc.png",
+    "Precio": "29.50€",
+    "created_at": "2025-12-07T16:42:11.425Z",
+    "alergias": [
+      2,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 40,
+  "fields": {
+    "tipo_id": "5",
+    "Platos": "28.Sashimi salmón 6 cortes",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184450518345.jpg",
+    "Precio": "12.95€",
+    "created_at": "2025-12-07T16:42:11.426Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 41,
+  "fields": {
+    "tipo_id": "5",
+    "Platos": "29.Sashimi atún 6 cortes",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184456990637.jpg",
+    "Precio": "15.90€",
+    "created_at": "2025-12-07T16:42:11.426Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 42,
+  "fields": {
+    "tipo_id": "5",
+    "Platos": "30A.Sashimi  de salmón (3 Cortes)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b227417b9.png",
+    "Precio": "6.20€",
+    "created_at": "2025-12-07T16:42:11.427Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 43,
+  "fields": {
+    "tipo_id": "5",
+    "Platos": "30B.Sashimi Atún 3cortes",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184509229107.jpg",
+    "Precio": "7.20€",
+    "created_at": "2025-12-07T16:42:11.427Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 44,
+  "fields": {
+    "tipo_id": "5",
+    "Platos": "30C.Sashimi Pez mantequilla 3cortes",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184515213949.jpg",
+    "Precio": "6.20€",
+    "created_at": "2025-12-07T16:42:11.427Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 45,
+  "fields": {
+    "tipo_id": "5",
+    "Platos": "31.Tataki de atún semicrudo con aguacate",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b22741bfe.png",
+    "Precio": "16.95€",
+    "created_at": "2025-12-07T16:42:11.428Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 46,
+  "fields": {
+    "tipo_id": "5",
+    "Platos": "32.Tataki de salmon semicrudo con aguacate",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b246e0b15.png",
+    "Precio": "13.95€",
+    "created_at": "2025-12-07T16:42:11.428Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 47,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "33.Rollo tango mango con atún (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b246e13a1.png",
+    "Precio": "13.45€",
+    "created_at": "2025-12-07T16:42:11.429Z",
+    "alergias": [
+      1,
+      5,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 48,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "35.Maki salmón 8unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184609804607.jpg",
+    "Precio": "7.00€",
+    "created_at": "2025-12-07T16:42:11.429Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 49,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "36.Maki atún 8unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184616377558.jpg",
+    "Precio": "7.60€",
+    "created_at": "2025-12-07T16:42:11.430Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 50,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "37.Rollo pez mantequilla flameando (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240518132017877011.jpg",
+    "Precio": "11.50€",
+    "created_at": "2025-12-07T16:42:11.430Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 51,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "38.Maki aguacate(8unida)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b246e1f59.png",
+    "Precio": "6.40€",
+    "created_at": "2025-12-07T16:42:11.431Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 52,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "39.Uramaki anguila ( 8unds)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b246e2405.png",
+    "Precio": "13.45€",
+    "created_at": "2025-12-07T16:42:11.431Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 53,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "40.Rollo de arcoiris (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20250318224940651132.jpg",
+    "Precio": "13.45€",
+    "created_at": "2025-12-07T16:42:11.431Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 54,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "41.Maki mango (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b246e2d86.png",
+    "Precio": "6.50€",
+    "created_at": "2025-12-07T16:42:11.432Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 55,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "42.Maki cebolla frita 8unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184734283877.jpg",
+    "Precio": "9.95€",
+    "created_at": "2025-12-07T16:42:11.432Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 56,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "43.Maki pepino  8unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b246e3147.png",
+    "Precio": "6.40€",
+    "created_at": "2025-12-07T16:42:11.433Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 57,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "44.California Sakura  Rollo  8unds",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20241228160834704682.jpg",
+    "Precio": "12.95€",
+    "created_at": "2025-12-07T16:42:11.433Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 58,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "45.California  de salmon con sésamo (8 und)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b24fb73d2.png",
+    "Precio": "11.00€",
+    "created_at": "2025-12-07T16:42:11.433Z",
+    "alergias": [
+      1,
+      5,
+      8,
+      11
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 59,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "46.Uramaki salmón con aguacate y queso ( 8unds)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b24fb7cef.png",
+    "Precio": "11.50€",
+    "created_at": "2025-12-07T16:42:11.434Z",
+    "alergias": [
+      1,
+      5,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 60,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "47.Uramaki de atun con aguacate y queso",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b24fb828a.png",
+    "Precio": "13.45€",
+    "created_at": "2025-12-07T16:42:11.434Z",
+    "alergias": [
+      1,
+      5,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 61,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "48.Uramaki de pollo crujiente (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b24fb88b8.png",
+    "Precio": "11.00€",
+    "created_at": "2025-12-07T16:42:11.435Z",
+    "alergias": [
+      1,
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 62,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "49.Uramaki aguacate con queso ( 8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b24fb8da9.png",
+    "Precio": "10.50€",
+    "created_at": "2025-12-07T16:42:11.435Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 63,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "50.Uramaki  langostino frito ( 8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b24fb92da.png",
+    "Precio": "13.45€",
+    "created_at": "2025-12-07T16:42:11.435Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 64,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "50A.Uramaki Dragon rollo (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b24fb996e.png",
+    "Precio": "13.45€",
+    "created_at": "2025-12-07T16:42:11.436Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 65,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "51.Tempura sushi frita (8unds)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b24fb9e76.png",
+    "Precio": "11.50€",
+    "created_at": "2025-12-07T16:42:11.436Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 66,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "52.Cheese salmon (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20250427154715663989.jpg",
+    "Precio": "11.00€",
+    "created_at": "2025-12-07T16:42:11.436Z",
+    "alergias": [
+      1,
+      5,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 67,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "52A.Quemado salmón roll (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b26651ced.png",
+    "Precio": "14.45€",
+    "created_at": "2025-12-07T16:42:11.437Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 68,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "53.Spicy de salmon (picante）8 unidades",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b26652450.png",
+    "Precio": "12.00€",
+    "created_at": "2025-12-07T16:42:11.437Z",
+    "alergias": [
+      1,
+      8,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 69,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "54.Spicy de atún (picante) (8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2665292f.png",
+    "Precio": "13.45€",
+    "created_at": "2025-12-07T16:42:11.438Z",
+    "alergias": [
+      1,
+      8,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 70,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "55.Tobico de salmon ( 8 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b26652f08.png",
+    "Precio": "12.00€",
+    "created_at": "2025-12-07T16:42:11.438Z",
+    "alergias": [
+      2,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 71,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "56A.Temaki Salmón",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184843173935.jpg",
+    "Precio": "5.30€",
+    "created_at": "2025-12-07T16:42:11.438Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 72,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "56B.Temaki Atún",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120184850303090.jpg",
+    "Precio": "5.80€",
+    "created_at": "2025-12-07T16:42:11.439Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 73,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "56C.Temaki de pez mantequilla",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20250117203939331794.jpg",
+    "Precio": "5.30€",
+    "created_at": "2025-12-07T16:42:11.439Z",
+    "alergias": [
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 74,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "56D.Temaki de tempura langostino",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20250117204258512163.png",
+    "Precio": "5.30€",
+    "created_at": "2025-12-07T16:42:11.440Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 75,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "57.Tartar de salmón",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b266533e9.png",
+    "Precio": "11.90€",
+    "created_at": "2025-12-07T16:42:11.440Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 76,
+  "fields": {
+    "tipo_id": "6",
+    "Platos": "58.Tartar de atún",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b26653840.png",
+    "Precio": "14.50€",
+    "created_at": "2025-12-07T16:42:11.441Z",
+    "alergias": [
+      1,
+      8
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 77,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "60.Arroz frito tres delicias",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240702223301324249.jpg",
+    "Precio": "5.90€",
+    "created_at": "2025-12-07T16:42:11.441Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 78,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "61.Arroz blanco",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b275b5027.png",
+    "Precio": "2.70€",
+    "created_at": "2025-12-07T16:42:11.442Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 79,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "64.Arroz con gambas",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b275b558f.png",
+    "Precio": "7.60€",
+    "created_at": "2025-12-07T16:42:11.442Z",
+    "alergias": [
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 80,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "65.Arroz con verdura y salsa de soja",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185041733368.jpg",
+    "Precio": "7.70€",
+    "created_at": "2025-12-07T16:42:11.442Z",
+    "alergias": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 81,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "66.Arroz estilo pato laqueado",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240423151514319269.png",
+    "Precio": "8.90€",
+    "created_at": "2025-12-07T16:42:11.443Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 82,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "67.Arroz con curry Thai",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185055162968.jpg",
+    "Precio": "7.70€",
+    "created_at": "2025-12-07T16:42:11.443Z",
+    "alergias": [
+      1,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 83,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "69.Ku-bak de langostino",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240423151415810145.png",
+    "Precio": "9.60€",
+    "created_at": "2025-12-07T16:42:11.443Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 84,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "70.Ku-bak de ternera",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b275b60dd.png",
+    "Precio": "9.60€",
+    "created_at": "2025-12-07T16:42:11.444Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 85,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "71.Hormigas que suben al arbol",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "10.00€",
+    "created_at": "2025-12-07T16:42:11.444Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 86,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "72.Chow-main tallarines con gambas",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240620223728583687.jpg",
+    "Precio": "8.50€",
+    "created_at": "2025-12-07T16:42:11.445Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 87,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "73.Chow-main tallarines con ternera",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b275b6656.png",
+    "Precio": "8.50€",
+    "created_at": "2025-12-07T16:42:11.445Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 88,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "74.Yaki Udon tallarines japonesas frito con gambas",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b275b6c03.png",
+    "Precio": "9.40€",
+    "created_at": "2025-12-07T16:42:11.445Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 89,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "75.Yaki udon tallarines japoneses con ternera",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b275b7198.png",
+    "Precio": "9.40€",
+    "created_at": "2025-12-07T16:42:11.446Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 90,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "76.Tallarines teppanyaki",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2838c6f6.png",
+    "Precio": "9.30€",
+    "created_at": "2025-12-07T16:42:11.446Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 91,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "76A.Yakisoba con verdura",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2838d1f8.png",
+    "Precio": "8.90€",
+    "created_at": "2025-12-07T16:42:11.447Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 92,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "77.Pad thai tallarines de la casa",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240620224225516484.png",
+    "Precio": "8.80€",
+    "created_at": "2025-12-07T16:42:11.447Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 93,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "78.Fideo de arroz con verdura y langostino",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185216275022.jpg",
+    "Precio": "8.90€",
+    "created_at": "2025-12-07T16:42:11.447Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 94,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "79.Fifeos de arroz con verdura y ternera",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2838dd80.png",
+    "Precio": "8.90€",
+    "created_at": "2025-12-07T16:42:11.448Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 95,
+  "fields": {
+    "tipo_id": "7",
+    "Platos": "80.Fideo chino con pollo",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2838e5e8.png",
+    "Precio": "8.60€",
+    "created_at": "2025-12-07T16:42:11.448Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 96,
+  "fields": {
+    "tipo_id": "8",
+    "Platos": "81.Toufu salteada mapo (poco picante)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2838ec7e.png",
+    "Precio": "8.80€",
+    "created_at": "2025-12-07T16:42:11.449Z",
+    "alergias": [
+      1,
+      4,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 97,
+  "fields": {
+    "tipo_id": "8",
+    "Platos": "82.Verduras  al wok",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2838f203.png",
+    "Precio": "8.80€",
+    "created_at": "2025-12-07T16:42:11.449Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 98,
+  "fields": {
+    "tipo_id": "8",
+    "Platos": "83.Bambu y seta al salteada",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2838f894.png",
+    "Precio": "9.30€",
+    "created_at": "2025-12-07T16:42:11.449Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 99,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "84.",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "0.00€",
+    "created_at": "2025-12-07T16:42:11.450Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 100,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "85.Ternera al estilo mongolia",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b28d86c8a.png",
+    "Precio": "11.90€",
+    "created_at": "2025-12-07T16:42:11.450Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 101,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "86.Ternera con salsa de guindilla(picante)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240517135556152152.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.450Z",
+    "alergias": [
+      1,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 102,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "87.Ternera teppanyaki",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b28d87caa.png",
+    "Precio": "11.95€",
+    "created_at": "2025-12-07T16:42:11.451Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 103,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "88.Ternera con bambú y seta",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185402952063.jpg",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.451Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 104,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "89.Ternera con salsa de ostras",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b28d88214.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.451Z",
+    "alergias": [
+      1,
+      14
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 105,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "90.Ternera curry thai",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b28d88868.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.452Z",
+    "alergias": [
+      1,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 106,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "92.Tira de buey caramelizados",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185425127191.jpg",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.452Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 107,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "93.Tiras de buey crujiente con salsa agridulce",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b28d88e64.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.452Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 108,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "95.Cerdo agridulce",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b28d894b2.png",
+    "Precio": "8.90€",
+    "created_at": "2025-12-07T16:42:11.453Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 109,
+  "fields": {
+    "tipo_id": "9",
+    "Platos": "96.Cerdo crujiente con sal y pimienta",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b28d89ad3.png",
+    "Precio": "8.90€",
+    "created_at": "2025-12-07T16:42:11.453Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 110,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "97.Pollo empanado con patata",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b29618092.png",
+    "Precio": "10.20€",
+    "created_at": "2025-12-07T16:42:11.454Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 111,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "98.Bolita de pollo frita(6 unidad)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b29618997.png",
+    "Precio": "9.60€",
+    "created_at": "2025-12-07T16:42:11.454Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 112,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "99.Pollo tappanyaki",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b29618e72.png",
+    "Precio": "11.90€",
+    "created_at": "2025-12-07T16:42:11.454Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 113,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "100.Pollo al curry thai",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185507935100.jpg",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.455Z",
+    "alergias": [
+      1,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 114,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "101.Pollo kon-bao",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b296194e4.png",
+    "Precio": "11.20€",
+    "created_at": "2025-12-07T16:42:11.455Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 115,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "102.Turrón de pollo",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240517134505915371.jpg",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.456Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 116,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "103.Pollo al limón",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185533857273.jpg",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.456Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 117,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "104.Pollo almendra con verduras",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b29619eaa.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.456Z",
+    "alergias": [
+      1,
+      6
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 118,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "105.Teppanyaki de pollo al estilo cantones",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2961a524.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.457Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 119,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "106.Pollo con salsa de guindilla(picante)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2961aa9c.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.457Z",
+    "alergias": [
+      1,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 120,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "106A.Pollo escalfado con vinagreta china (con picante o sin picante)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20251126162007987744.jpg",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.458Z",
+    "alergias": [
+      1,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 121,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "107.Pollo con salsa teriyaki japonesa",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2a542854.png",
+    "Precio": "11.80€",
+    "created_at": "2025-12-07T16:42:11.458Z",
+    "alergias": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 122,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "108.Pollo caramelizado con soja",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185551411836.jpg",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.458Z",
+    "alergias": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 123,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "109.Tiras de pollo en salsa sate(picante)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2a5430ff.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.459Z",
+    "alergias": [
+      1,
+      9,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 124,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "109A.Tira de pollo frito",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2a5437ac.png",
+    "Precio": "10.90€",
+    "created_at": "2025-12-07T16:42:11.459Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 125,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "110.Pato frito crujiente",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185638441473.jpg",
+    "Precio": "12.50€",
+    "created_at": "2025-12-07T16:42:11.460Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 126,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "111.Pato crujiente con salsa naranja",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185706276637.jpg",
+    "Precio": "12.50€",
+    "created_at": "2025-12-07T16:42:11.460Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 127,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "112.Pato pekines",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2a543c2c.png",
+    "Precio": "16.50€",
+    "created_at": "2025-12-07T16:42:11.460Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 128,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "113.Pato teppanyaki",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2a5440d3.png",
+    "Precio": "12.90€",
+    "created_at": "2025-12-07T16:42:11.461Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 129,
+  "fields": {
+    "tipo_id": "10",
+    "Platos": "113A.Pato con bambu y seta",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2a54479e.png",
+    "Precio": "12.40€",
+    "created_at": "2025-12-07T16:42:11.462Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 130,
+  "fields": {
+    "tipo_id": "11",
+    "Platos": "115.Langostino con  bambu y seta",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20230905214221314323.jpg",
+    "Precio": "12.40€",
+    "created_at": "2025-12-07T16:42:11.462Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 131,
+  "fields": {
+    "tipo_id": "11",
+    "Platos": "116.Langostino curry al estilo thai",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20150120185736317011.jpg",
+    "Precio": "12.90€",
+    "created_at": "2025-12-07T16:42:11.462Z",
+    "alergias": [
+      1,
+      2,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 132,
+  "fields": {
+    "tipo_id": "11",
+    "Platos": "117.Langostino con verdura al wok",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2a544c1d.png",
+    "Precio": "11.40€",
+    "created_at": "2025-12-07T16:42:11.463Z",
+    "alergias": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 133,
+  "fields": {
+    "tipo_id": "11",
+    "Platos": "119.Langostinos con salsa de guindilla(picante)",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "12.40€",
+    "created_at": "2025-12-07T16:42:11.463Z",
+    "alergias": [
+      1,
+      2,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 134,
+  "fields": {
+    "tipo_id": "11",
+    "Platos": "120.Chipirones Teppanyaki",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516222228469432.jpg",
+    "Precio": "12.90€",
+    "created_at": "2025-12-07T16:42:11.464Z",
+    "alergias": [
+      1,
+      14
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 135,
+  "fields": {
+    "tipo_id": "11",
+    "Platos": "121.Chipirónes con salsa de ostra",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516222213123969.jpg",
+    "Precio": "12.90€",
+    "created_at": "2025-12-07T16:42:11.464Z",
+    "alergias": [
+      1,
+      14
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 136,
+  "fields": {
+    "tipo_id": "11",
+    "Platos": "122.Chipirones con salsa de guindilla(picante）",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516222303643486.jpg",
+    "Precio": "12.90€",
+    "created_at": "2025-12-07T16:42:11.465Z",
+    "alergias": [
+      1,
+      14,
+      15
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 137,
+  "fields": {
+    "tipo_id": "12",
+    "Platos": "Bandeja 1 (14P)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20160427123015300527.jpg",
+    "Precio": "14.95€",
+    "created_at": "2025-12-07T16:42:11.465Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 138,
+  "fields": {
+    "tipo_id": "12",
+    "Platos": "Bandeja 2 (22P)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20160427123148952701.jpg",
+    "Precio": "26.95€",
+    "created_at": "2025-12-07T16:42:11.465Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 139,
+  "fields": {
+    "tipo_id": "12",
+    "Platos": "Bandeja 3 (30P)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20160427123121408514.jpg",
+    "Precio": "43.90€",
+    "created_at": "2025-12-07T16:42:11.466Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 140,
+  "fields": {
+    "tipo_id": "12",
+    "Platos": "Bandeja 4 (36P)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20250509221200555503.jpg",
+    "Precio": "53.00€",
+    "created_at": "2025-12-07T16:42:11.466Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 141,
+  "fields": {
+    "tipo_id": "12",
+    "Platos": "BANDEJA 5 (16P)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20180923024804998885.jpg",
+    "Precio": "29.00€",
+    "created_at": "2025-12-07T16:42:11.466Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 142,
+  "fields": {
+    "tipo_id": "12",
+    "Platos": "BANDEJA 6 (38P)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240423150909227883.png",
+    "Precio": "62.00€",
+    "created_at": "2025-12-07T16:42:11.467Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 143,
+  "fields": {
+    "tipo_id": "13",
+    "Platos": "MENÚ SUMO ( 2 PERSONAS)",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "36.95€",
+    "created_at": "2025-12-07T16:42:11.467Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 144,
+  "fields": {
+    "tipo_id": "13",
+    "Platos": "MENÚ BAMBÚ ( 3 PERSONAS)",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "54.95€",
+    "created_at": "2025-12-07T16:42:11.468Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 145,
+  "fields": {
+    "tipo_id": "13",
+    "Platos": "MENÚ FUSIÓN (4 PERSONAS)",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "68.95€",
+    "created_at": "2025-12-07T16:42:11.468Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 146,
+  "fields": {
+    "tipo_id": "13",
+    "Platos": "MENU ASIATICO ( para 6 personas)",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "125.45€",
+    "created_at": "2025-12-07T16:42:11.468Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 147,
+  "fields": {
+    "tipo_id": "13",
+    "Platos": "MENÚ TOKIO ( 2 PERSONAS)",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "49.95€",
+    "created_at": "2025-12-07T16:42:11.469Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 148,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "VINO DE LA CASA, RIOJA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516225159400477.jpg",
+    "Precio": "12.00€",
+    "created_at": "2025-12-07T16:42:11.469Z",
+    "alergias": [
+      12
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 149,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "CUNE CRIANZA Y RIOJA½",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516225044182968.jpg",
+    "Precio": "11.00€",
+    "created_at": "2025-12-07T16:42:11.469Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 150,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "CUNE CRIANZA Y RIOJA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516225028169214.jpg",
+    "Precio": "17.00€",
+    "created_at": "2025-12-07T16:42:11.470Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 151,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "VIÑA ALCORTA CRIANZA, RIOJA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516224942146819.jpg",
+    "Precio": "19.90€",
+    "created_at": "2025-12-07T16:42:11.470Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 152,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "VIÑA MAYOR ROBLE, RIBERA DEL DUERO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516223959489206.jpg",
+    "Precio": "17.50€",
+    "created_at": "2025-12-07T16:42:11.470Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 153,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "MARQUÉS DE CÁCERES CRIANZA, RIOJA½",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516223748406962.jpg",
+    "Precio": "11.00€",
+    "created_at": "2025-12-07T16:42:11.471Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 154,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "MARQUÉS DE CÁCERES CRIANZA, RIOJA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516223652549572.jpg",
+    "Precio": "17.00€",
+    "created_at": "2025-12-07T16:42:11.471Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 155,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "MUGA CRIANZA, RIOJA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516223605974698.jpg",
+    "Precio": "37.00€",
+    "created_at": "2025-12-07T16:42:11.472Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 156,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "RAMON BILBAO CRIANZA RIOJA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516222853736391.jpg",
+    "Precio": "19.00€",
+    "created_at": "2025-12-07T16:42:11.472Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 157,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "PROTO ROBLE",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516224535394050.jpg",
+    "Precio": "17.80€",
+    "created_at": "2025-12-07T16:42:11.473Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 158,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "PROTOS CRIANZA, RIBERA DEL DUERO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516223511723175.jpg",
+    "Precio": "24.00€",
+    "created_at": "2025-12-07T16:42:11.473Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 159,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "PRUNO 2021 ( RIBERA DEL DUERO)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20250207131225538003.jpg",
+    "Precio": "19.00€",
+    "created_at": "2025-12-07T16:42:11.473Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 160,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "FINCA CONSTANCIA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516223228381321.jpg",
+    "Precio": "16.50€",
+    "created_at": "2025-12-07T16:42:11.474Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 161,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "PAGO DEL VICARIO 50-50 (TIERRA DE CATILLA )",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20250207130110252078.png",
+    "Precio": "18.00€",
+    "created_at": "2025-12-07T16:42:11.474Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 162,
+  "fields": {
+    "tipo_id": "14",
+    "Platos": "ALCARDET",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240518134002565996.png",
+    "Precio": "13.95€",
+    "created_at": "2025-12-07T16:42:11.475Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 163,
+  "fields": {
+    "tipo_id": "15",
+    "Platos": "Pinuaga Rose 2023",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240620225450772294.jpg",
+    "Precio": "16.00€",
+    "created_at": "2025-12-07T16:42:11.475Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 164,
+  "fields": {
+    "tipo_id": "15",
+    "Platos": "PEÑASCAL, VALLADOLID",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516225643598556.jpg",
+    "Precio": "13.00€",
+    "created_at": "2025-12-07T16:42:11.475Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 165,
+  "fields": {
+    "tipo_id": "15",
+    "Platos": "MATEU ROSE, PORTUGAL",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516225609423690.jpg",
+    "Precio": "14.00€",
+    "created_at": "2025-12-07T16:42:11.476Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 166,
+  "fields": {
+    "tipo_id": "15",
+    "Platos": "LAMBRUSCO, ITALIA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516225453760985.jpg",
+    "Precio": "12.00€",
+    "created_at": "2025-12-07T16:42:11.476Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 167,
+  "fields": {
+    "tipo_id": "15",
+    "Platos": "GRAN FEUDO, NAYARRA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516225341227768.jpg",
+    "Precio": "12.50€",
+    "created_at": "2025-12-07T16:42:11.476Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 168,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "BLANCO NIEVA MARTUE 2023 VERDEJO RUEDA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240529132238629579.png",
+    "Precio": "14.00€",
+    "created_at": "2025-12-07T16:42:11.477Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 169,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "PALACIO DE BORNOS FRIZZANTE VERDEJO (semidulce)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240529133012116268.jpg",
+    "Precio": "16.00€",
+    "created_at": "2025-12-07T16:42:11.477Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 170,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "QUINTA DE AVES MUSCAT VOLCANICO 2023 ( 100% MOSCATEL )",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240620224742226630.png",
+    "Precio": "16.00€",
+    "created_at": "2025-12-07T16:42:11.477Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 171,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "PACO Y LOLA ALBARINO",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "16.00€",
+    "created_at": "2025-12-07T16:42:11.478Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 172,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "BARBADILLO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240518134913270851.jpg",
+    "Precio": "13.80€",
+    "created_at": "2025-12-07T16:42:11.478Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 173,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "BLANCO DE LA CASA, RUEDA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516225910117860.jpg",
+    "Precio": "12.00€",
+    "created_at": "2025-12-07T16:42:11.478Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 174,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "CORPUS DEL MUNI  (SEMIDULCE)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516230217355405.jpg",
+    "Precio": "16.00€",
+    "created_at": "2025-12-07T16:42:11.479Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 175,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "MARTÍN CÓDAX ALBARIÑO, RÍAS BAIXAS",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516230347717787.jpg",
+    "Precio": "25.00€",
+    "created_at": "2025-12-07T16:42:11.479Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 176,
+  "fields": {
+    "tipo_id": "16",
+    "Platos": "DIAMANTE ( SEMIDULCE)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240908203900550614.jpg",
+    "Precio": "15.00€",
+    "created_at": "2025-12-07T16:42:11.480Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 177,
+  "fields": {
+    "tipo_id": "17",
+    "Platos": "JARRA½",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231145817893.jpg",
+    "Precio": "6.50€",
+    "created_at": "2025-12-07T16:42:11.480Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 178,
+  "fields": {
+    "tipo_id": "17",
+    "Platos": "JARRA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231135317393.jpg",
+    "Precio": "9.00€",
+    "created_at": "2025-12-07T16:42:11.480Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 179,
+  "fields": {
+    "tipo_id": "18",
+    "Platos": "ALCARDET BRUT 36MESES",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231317827544.jpg",
+    "Precio": "18.00€",
+    "created_at": "2025-12-07T16:42:11.481Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 180,
+  "fields": {
+    "tipo_id": "19",
+    "Platos": "MAHOU",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516232105174153.jpg",
+    "Precio": "2.90€",
+    "created_at": "2025-12-07T16:42:11.481Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 181,
+  "fields": {
+    "tipo_id": "19",
+    "Platos": "MAHOU TOSTADA 0%",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516232036833124.jpg",
+    "Precio": "2.90€",
+    "created_at": "2025-12-07T16:42:11.482Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 182,
+  "fields": {
+    "tipo_id": "19",
+    "Platos": "CERVEZA JAPONESA KIRIN, SAPPORO, O ASAHÍ",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516232002705766.jpg",
+    "Precio": "3.50€",
+    "created_at": "2025-12-07T16:42:11.482Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 183,
+  "fields": {
+    "tipo_id": "19",
+    "Platos": "CERVEZA CHINA TSING-TAO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231856501430.jpg",
+    "Precio": "3.50€",
+    "created_at": "2025-12-07T16:42:11.482Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 184,
+  "fields": {
+    "tipo_id": "19",
+    "Platos": "CERVEZA TAILANDESA SINGA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231804253056.jpg",
+    "Precio": "3.50€",
+    "created_at": "2025-12-07T16:42:11.483Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 185,
+  "fields": {
+    "tipo_id": "20",
+    "Platos": "AGUA MINERAL",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231720943953.jpg",
+    "Precio": "2.20€",
+    "created_at": "2025-12-07T16:42:11.483Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 186,
+  "fields": {
+    "tipo_id": "20",
+    "Platos": "AGUA CON GAS SOLAR",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231625812164.jpg",
+    "Precio": "2.60€",
+    "created_at": "2025-12-07T16:42:11.483Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 187,
+  "fields": {
+    "tipo_id": "20",
+    "Platos": "COCA COLA, FANTA LIMÓN Y NARANJA, SPRITE, TÓNICA, AQUARIUS, NESTEA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231539987329.jpg",
+    "Precio": "2.90€",
+    "created_at": "2025-12-07T16:42:11.484Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 188,
+  "fields": {
+    "tipo_id": "20",
+    "Platos": "ZUMO DE FRUTA",
+    "Imagenes": "https://www.restaurantesuma.es/public/images/no-imagen.jpg",
+    "Precio": "2.25€",
+    "created_at": "2025-12-07T16:42:11.484Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 189,
+  "fields": {
+    "tipo_id": "20",
+    "Platos": "ZUMO DE NARANJA NATURAL",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516231428287187.jpg",
+    "Precio": "3.80€",
+    "created_at": "2025-12-07T16:42:11.485Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 190,
+  "fields": {
+    "tipo_id": "21",
+    "Platos": "SAKE JARRA, CALIENTE O FRÍO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516232329283593.jpg",
+    "Precio": "8.00€",
+    "created_at": "2025-12-07T16:42:11.485Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 191,
+  "fields": {
+    "tipo_id": "21",
+    "Platos": "SAKE JAPÓN SHOGUN (BOTELLA) FRÍO ( 180ML)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516232230901845.jpg",
+    "Precio": "10.00€",
+    "created_at": "2025-12-07T16:42:11.485Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 192,
+  "fields": {
+    "tipo_id": "21",
+    "Platos": "SAKE JAPÓN NAMA-CHOZO (300ML)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516232153581534.jpg",
+    "Precio": "15.00€",
+    "created_at": "2025-12-07T16:42:11.486Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 193,
+  "fields": {
+    "tipo_id": "22",
+    "Platos": "LICORES ORIENTALES, CHOYA, FLORES O  GAOLIAN",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516233937963409.jpg",
+    "Precio": "3.50€",
+    "created_at": "2025-12-07T16:42:11.486Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 194,
+  "fields": {
+    "tipo_id": "22",
+    "Platos": "LICORES DE  PACHARÁN, HIERBAS, ORUJO CREMA O  LIMONCHELO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516233730305481.jpg",
+    "Precio": "4.00€",
+    "created_at": "2025-12-07T16:42:11.486Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 195,
+  "fields": {
+    "tipo_id": "22",
+    "Platos": "WHISKY , VODKA O  COÑA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516233503683915.jpg",
+    "Precio": "4.50€",
+    "created_at": "2025-12-07T16:42:11.487Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 196,
+  "fields": {
+    "tipo_id": "22",
+    "Platos": "COMBINADOS",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516233007147118.jpg",
+    "Precio": "5.50€",
+    "created_at": "2025-12-07T16:42:11.487Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 197,
+  "fields": {
+    "tipo_id": "22",
+    "Platos": "MARTINI Y SIMILARES",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516232727306988.jpg",
+    "Precio": "4.50€",
+    "created_at": "2025-12-07T16:42:11.488Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 198,
+  "fields": {
+    "tipo_id": "22",
+    "Platos": "AMARETTO, BAILEY´S, 0  FRANGELICO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516232625400130.jpg",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.488Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 199,
+  "fields": {
+    "tipo_id": "22",
+    "Platos": "WHISKY ESPECIAL",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516233049922560.jpg",
+    "Precio": "6.50€",
+    "created_at": "2025-12-07T16:42:11.489Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 200,
+  "fields": {
+    "tipo_id": "23",
+    "Platos": "TÉ VERDE",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516234851502777.jpg",
+    "Precio": "2.10€",
+    "created_at": "2025-12-07T16:42:11.489Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 201,
+  "fields": {
+    "tipo_id": "23",
+    "Platos": "TÉ VERDE, ROJO , NEGRO,  MANZANILLA O MENTA POLEO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516234734666432.jpg",
+    "Precio": "2.10€",
+    "created_at": "2025-12-07T16:42:11.489Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 202,
+  "fields": {
+    "tipo_id": "23",
+    "Platos": "TÉ ARROZ",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516234432495475.jpg",
+    "Precio": "2.50€",
+    "created_at": "2025-12-07T16:42:11.490Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 203,
+  "fields": {
+    "tipo_id": "23",
+    "Platos": "CAFÉ",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516235723483977.jpg",
+    "Precio": "1.90€",
+    "created_at": "2025-12-07T16:42:11.490Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 204,
+  "fields": {
+    "tipo_id": "23",
+    "Platos": "CAFÉ BOMBÓN, CAPPUCCINO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516235650389320.jpg",
+    "Precio": "4.20€",
+    "created_at": "2025-12-07T16:42:11.490Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 205,
+  "fields": {
+    "tipo_id": "23",
+    "Platos": "CAFÉ IRLANDÉS",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516235518325082.jpg",
+    "Precio": "4.90€",
+    "created_at": "2025-12-07T16:42:11.491Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 206,
+  "fields": {
+    "tipo_id": "23",
+    "Platos": "CARAJILLO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240516235440311403.jpg",
+    "Precio": "3.40€",
+    "created_at": "2025-12-07T16:42:11.491Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 207,
+  "fields": {
+    "tipo_id": "24",
+    "Platos": "(AUTÉNTICO YEN SEN NATURAL VAPORIZADO CON BAYA DE GOJI Y MIEL) (AFRODISIACO Y ANTIOXIDANTE)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240517000010632311.jpg",
+    "Precio": "6.00€",
+    "created_at": "2025-12-07T16:42:11.491Z",
+    "alergias": []
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 208,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "800C.Trufa té verde (6 piezas)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b055ec3.png",
+    "Precio": "4.55€",
+    "created_at": "2025-12-07T16:42:11.492Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 209,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "833.Plátano frito ( 2 piezas)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2c582f07.png",
+    "Precio": "3.55€",
+    "created_at": "2025-12-07T16:42:11.492Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 210,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "831.Helado frito",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2c5823de.png",
+    "Precio": "4.35€",
+    "created_at": "2025-12-07T16:42:11.493Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 211,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "836.Bola helado",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2d4266cd.png",
+    "Precio": "3.25€",
+    "created_at": "2025-12-07T16:42:11.493Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 212,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "837.Helado doble",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20220709161324799555.jpg",
+    "Precio": "4.65€",
+    "created_at": "2025-12-07T16:42:11.494Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 213,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "839.Flan chino mandarín vanilla",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2d426f3a.png",
+    "Precio": "2.25€",
+    "created_at": "2025-12-07T16:42:11.494Z",
+    "alergias": [
+      1,
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 214,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "839A.Flan con nata",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2d427576.png",
+    "Precio": "4.25€",
+    "created_at": "2025-12-07T16:42:11.494Z",
+    "alergias": [
+      1,
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 215,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "839B.Flan con nata y nueces",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2d427a7c.png",
+    "Precio": "5.05€",
+    "created_at": "2025-12-07T16:42:11.495Z",
+    "alergias": [
+      1,
+      3,
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 216,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "807.Maxibon",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20220709162431752905.png",
+    "Precio": "3.00€",
+    "created_at": "2025-12-07T16:42:11.495Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 217,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "827.Nuii almendrado",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2c581810.png",
+    "Precio": "3.00€",
+    "created_at": "2025-12-07T16:42:11.495Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 218,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "808.Fantasmikos pirulo",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b85f48d.png",
+    "Precio": "2.50€",
+    "created_at": "2025-12-07T16:42:11.496Z",
+    "alergias": [
+      3
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 219,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "829.Bombones",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2c581e0f.png",
+    "Precio": "4.50€",
+    "created_at": "2025-12-07T16:42:11.496Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 220,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "832.Trufa chocolates ( 5 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2c5828a0.png",
+    "Precio": "6.00€",
+    "created_at": "2025-12-07T16:42:11.497Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 221,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "802.Brownie con nueces con helado de vanilla",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b85e7f9.png",
+    "Precio": "5.50€",
+    "created_at": "2025-12-07T16:42:11.497Z",
+    "alergias": [
+      1,
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 222,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "801.Tarta de chocolate",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b056353.png",
+    "Precio": "4.10€",
+    "created_at": "2025-12-07T16:42:11.498Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 223,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "830.Tarta queso Gourmet",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240423151610468642.png",
+    "Precio": "4.10€",
+    "created_at": "2025-12-07T16:42:11.498Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 224,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "814.Tarta al whisky",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20240430103303977793.jpg",
+    "Precio": "4.50€",
+    "created_at": "2025-12-07T16:42:11.498Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 225,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "816.Mini carolina",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b8607de.png",
+    "Precio": "3.50€",
+    "created_at": "2025-12-07T16:42:11.499Z",
+    "alergias": [
+      1
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 226,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "843.Bolita de sésamo (5 unidades)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2d428539.png",
+    "Precio": "3.85€",
+    "created_at": "2025-12-07T16:42:11.499Z",
+    "alergias": [
+      1,
+      11
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 227,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "835.Pancakes con helado",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2c58338a.png",
+    "Precio": "5.90€",
+    "created_at": "2025-12-07T16:42:11.500Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 228,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "813.Crema Quemada",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b86024b.png",
+    "Precio": "5.20€",
+    "created_at": "2025-12-07T16:42:11.500Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 229,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "817.Coco helado",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b860d98.png",
+    "Precio": "6.60€",
+    "created_at": "2025-12-07T16:42:11.500Z",
+    "alergias": [
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 230,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "809.La tentagioni caffe",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b85fa55.png",
+    "Precio": "5.00€",
+    "created_at": "2025-12-07T16:42:11.501Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 231,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "810.La tentagioni panna e cioccolato",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b85fe4a.png",
+    "Precio": "5.00€",
+    "created_at": "2025-12-07T16:42:11.501Z",
+    "alergias": [
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 232,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "818.Limón helado",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2c580be9.png",
+    "Precio": "5.50€",
+    "created_at": "2025-12-07T16:42:11.502Z",
+    "alergias": [
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 233,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "806.COPA OREO",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20250504204125298636.jpg",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.502Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 234,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "805.VASO HUEVO LACASITOS",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20241031131555596882.jpg",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.502Z",
+    "alergias": [
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 235,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "812.COPA MILKA",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/20241126163213695381.png",
+    "Precio": "4.80€",
+    "created_at": "2025-12-07T16:42:11.503Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 236,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "800.Mochi helado (2 bola)",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2b0559d6.png",
+    "Precio": "4.55€",
+    "created_at": "2025-12-07T16:42:11.503Z",
+    "alergias": [
+      1,
+      5
+    ]
+  }
+},
+{
+  "model": "proyects.suma",
+  "pk": 237,
+  "fields": {
+    "tipo_id": "25",
+    "Platos": "840.Mousse de chocolate o limon",
+    "Imagenes": "https://www.restaurantesuma.es/public/uploadfile/6627b2d4280a9.png",
+    "Precio": "3.65€",
+    "created_at": "2025-12-07T16:42:11.504Z",
+    "alergias": [
+      5
+    ]
+  }
+}
+]
