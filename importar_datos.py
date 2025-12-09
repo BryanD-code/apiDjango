@@ -1,4 +1,19 @@
-[
+import os
+import django
+
+# 1. Configuración del proyecto (esto busca settings.py en la carpeta djangocrud)
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'djangocrud.settings')
+django.setup()
+
+# 2. IMPORTACIÓN CORREGIDA (Tu app se llama apiSumaapi)
+from proyects.models import Suma, Alergias
+
+print("🚀 Iniciando carga...")
+
+# ---------------------------------------------------------
+# PEGA AQUÍ TU JSON (Sustituye los corchetes vacíos por tus datos)
+# ---------------------------------------------------------
+datos_json = [
     {
         "tipo_id": "1",
         "Platos": "1.Ensalada de aguacate con langostinos",
@@ -1896,3 +1911,32 @@
         "alergias_ids": [5]
     }
 ]
+
+# ---------------------------------------------------------
+# LÓGICA DE CARGA
+# ---------------------------------------------------------
+for item in datos_json:
+    nombre = item["Platos"]
+    ids_alergias = item.get("alergias_ids", [])
+
+    # 1. Crear o actualizar el plato
+    plato, created = Suma.objects.update_or_create(
+        Platos=nombre,
+        defaults={
+            'Precio': item["Precio"],
+            'Imagenes': item["Imagenes"],
+            'tipo_id': item["tipo_id"]
+        }
+    )
+
+    # 2. Asignar las alergias
+    if ids_alergias:
+        # Buscamos las alergias reales por su ID
+        alergias_reales = Alergias.objects.filter(id__in=ids_alergias)
+        # Las asignamos al plato
+        plato.alergias.set(alergias_reales)
+
+    estado = "Creado" if created else "Actualizado"
+    print(f"✅ {estado}: {nombre} (Alergias IDs: {ids_alergias})")
+
+print("🏁 ¡Carga finalizada!")
